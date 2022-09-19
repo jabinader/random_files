@@ -1,5 +1,0 @@
-/*
- * Public API Surface of table
- */
-export * from '@siren/table/src/lib/table';
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3Byb2plY3RzL3RhYmxlL3NyYy9wdWJsaWMtYXBpLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBOztHQUVHO0FBRUgsY0FBYyw0QkFBNEIsQ0FBQyIsInNvdXJjZXNDb250ZW50IjpbIi8qXG4gKiBQdWJsaWMgQVBJIFN1cmZhY2Ugb2YgdGFibGVcbiAqL1xuXG5leHBvcnQgKiBmcm9tICdAc2lyZW4vdGFibGUvc3JjL2xpYi90YWJsZSc7XG4iXX0=
